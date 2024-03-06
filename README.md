@@ -6,7 +6,5 @@ Example repository for getting to know Git
 We are:
 
 * Mark Tropin
+* Arian Forotan
 * Bauch Saleh
-
-
-
